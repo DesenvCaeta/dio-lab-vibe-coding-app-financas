@@ -60,10 +60,9 @@ Aplicativo pessoal no Lovable para otimização de currículos e matchmaking de 
  
 - Prints ou pequenos vídeos das interações com a IA;
 
-<img width="916" height="460" alt="Tela 23" src="https://github.com/user-attachments/assets/249432b4-a2ca-4a1c-b159-c0ff8e2f4d6a" />
-<img width="885" height="768" alt="Tela 22" src="https://github.com/user-attachments/assets/2a3b34c5-b112-41f5-a003-f22811c37bb2" />
 <img width="1152" height="786" alt="Tela 21" src="https://github.com/user-attachments/assets/d2d71e4a-3e30-41ef-8c2f-77148ccd6a5d" />
-
+<img width="885" height="768" alt="Tela 22" src="https://github.com/user-attachments/assets/2a3b34c5-b112-41f5-a003-f22811c37bb2" />
+<img width="916" height="460" alt="Tela 23" src="https://github.com/user-attachments/assets/249432b4-a2ca-4a1c-b159-c0ff8e2f4d6a" />
 
 - Um resumo do que o seu **App de Finanças Pessoais** faz;
 O CV Match está no ar, sem login: o perfil base fica em Meu perfil, você cola a descrição da vaga em Vagas, clica em "Analisar vaga" (a IA extrai palavras-chave obrigatórias/desejáveis e o score de match é calculado sobre o seu perfil) e depois em "Gerar versão do currículo" para criar uma versão adaptada com checklist ATS e exportação em .docx e .pdf. Fluxo completo no navegador: análise, geração e os dois arquivos exportados saem em coluna única, com texto selecionável e sem tabelas — do jeito que o ATS lê.
