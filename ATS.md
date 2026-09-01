@@ -60,16 +60,13 @@ Aplicativo pessoal no Lovable para otimização de currículos e matchmaking de 
  
 - Prints ou pequenos vídeos das interações com a IA;
 
-<img width="819" height="782" alt="Tela 1" src="https://github.com/user-attachments/assets/04b324f1-5d04-4890-8e5b-baf99f7a5315" />
-<img width="819" height="597" alt="Tela 5" src="https://github.com/user-attachments/assets/c4dbe4f7-9750-49d9-8d5e-9ef644b5ef14" />
-<img width="819" height="772" alt="Tela 4" src="https://github.com/user-attachments/assets/f83a43b7-3fcc-4817-b869-bf1e5493331d" />
-<img width="819" height="501" alt="Tela 3" src="https://github.com/user-attachments/assets/c791108a-cf34-41b2-bb57-5f898f3e311b" />
-<img width="819" height="643" alt="Tela 2" src="https://github.com/user-attachments/assets/7ebad10d-fbe9-4f42-9a01-82022bdaa64b" />
+<img width="916" height="460" alt="Tela 23" src="https://github.com/user-attachments/assets/249432b4-a2ca-4a1c-b159-c0ff8e2f4d6a" />
+<img width="885" height="768" alt="Tela 22" src="https://github.com/user-attachments/assets/2a3b34c5-b112-41f5-a003-f22811c37bb2" />
+<img width="1152" height="786" alt="Tela 21" src="https://github.com/user-attachments/assets/d2d71e4a-3e30-41ef-8c2f-77148ccd6a5d" />
+
 
 - Um resumo do que o seu **App de Finanças Pessoais** faz;
-Em linhas gerais controla não apenas Despesas e Receitas, mas também prevê uma reserva de emergência, ou seja, uma poupança que só será usada em casos muito especiais. Sugestão guardar R$ 300,00 todos os meses. 
-A entrada de dados é realizada usando linguagem natural, e o aplicativo considera a data da movimentação como sendo a data do dia em que o movimento está sendo realizado, a não ser que uma data específica seja indicada. 
-Como a maioria dos gastos são realizados em cartão de crédito, é previsto um registro especial para isto.
+O CV Match está no ar, sem login: o perfil base fica em Meu perfil, você cola a descrição da vaga em Vagas, clica em "Analisar vaga" (a IA extrai palavras-chave obrigatórias/desejáveis e o score de match é calculado sobre o seu perfil) e depois em "Gerar versão do currículo" para criar uma versão adaptada com checklist ATS e exportação em .docx e .pdf. Fluxo completo no navegador: análise, geração e os dois arquivos exportados saem em coluna única, com texto selecionável e sem tabelas — do jeito que o ATS lê.
   
 - Uma breve **reflexão sobre o processo**:
   - O que funcionou bem?
