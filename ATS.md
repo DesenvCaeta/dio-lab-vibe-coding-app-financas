@@ -69,9 +69,9 @@ O CV Match está no ar, sem login: o perfil base fica em Meu perfil, você cola 
   
 - Uma breve **reflexão sobre o processo**:
   - O que funcionou bem?
-    A geração do PRD foi muito simples e rápida, sendo necessária apenas uma pequena correção das cores sugeridas, mas sem impacto no processo geral.
+    A geração do PRD foi muito simples e rápida, sendo necessário apenas a retirada de opções desnecessárias
   - O que não funcionou como o esperado?
-    Deveria ter especificado melhor as agregações de despesa desejadas, uma referente a gastos com PETs que eu gostaria não foi considerada
+    A quantidade de créditos estourou muito rapidamente
   - O que aprendeu sobre conversar com IAs?
     Nunca acreditar totalmente nas soluções apresentadas
 
