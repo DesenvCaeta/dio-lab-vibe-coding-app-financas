@@ -77,8 +77,8 @@ O CV Match está no ar, sem login: o perfil base fica em Meu perfil, você cola 
 
 > [!TIP]
 > Publique seu repositório e compartilhe o link na plataforma da DIO! Sua entrega é a prova de que você domina o raciocínio de Vibe Coding, mesmo sem escrever uma única linha de código.
-> 
-https://financ-pessoal.lovable.app/
+> https://cv-atscaeta.lovable.app/
+
 
 
 
