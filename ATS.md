@@ -1,4 +1,4 @@
-# 💸 App de Organização de Finanças Pessoais com Vibe Coding
+# 💸 App de matchmaking de vagas de emprego
 
 ### 3. Entregando o Desafio na DIO
 
@@ -8,89 +8,56 @@ No README do seu repositório, inclua:
 - Seu **prompt final** (PRD);
 Product Requirements Document (PRD) 
 
-Título: Controle Financeiro Pessoal 
+Visão Geral 
+Aplicativo para uso pessoal: 
+Matchmaking de vagas de emprego. 
+Criação de versões do currículo otimizadas para sistemas ATS. 
+Exportação de currículos em Word (.docx) e PDF. 
+Projeto usado em desafio de fim de curso na DIO. 
 
-1. Visão Geral 
-Aplicativo de uso pessoal para controle de finanças, com foco em: 
-Registro de despesas e receitas em linguagem natural. 
-Gestão diferenciada de gastos em cartão de crédito. 
-Criação e acompanhamento de uma reserva de emergência. 
-Sugestões de investimento para a reserva. 
-Interface acessível e inclusiva, seguindo princípios de Design Universal. 
-Identidade visual baseada nas cores e fontes da Prefeitura de Niterói (RJ). 
+Objetivos 
+Facilitar a busca e adequação de currículos para diferentes vagas. 
+Garantir que meu currículo seja compatível com sistemas ATS. 
+Interface simples e intuitiva, sem login. 
 
-2. Objetivos do Produto 
-Facilitar o registro de movimentações financeiras sem necessidade de planilhas manuais. 
-Oferecer relatórios claros e organizados para acompanhamento mensal e anual. 
-Apoiar a disciplina financeira com depósitos automáticos de R$ 300,00/mês na reserva de emergência. 
-Proporcionar insights de investimento através de um módulo de assessor financeiro. 
+Público-Alvo 
+Usuário único. 
 
-3. Escopo do MVP 
-Funcionalidades Principais 
-  Entrada de dados em linguagem natural: 
-    Exemplo: “Gastei R$ 50 no supermercado hoje” → categorizado automaticamente como despesa de alimentação. 
-  Data padrão: dia da entrada, salvo se outra data for indicada.
+Escopo e Funcionalidades 
+Matchmaking de Vagas 
+Importar/cadastrar vagas. 
+Analisar requisitos. 
+Sugerir adequações no currículo. 
+Currículo ATS-Friendly 
+Criar múltiplas versões adaptadas. 
+Sugestões automáticas de palavras-chave. 
+Validação de compatibilidade ATS. 
 
-  Módulos de Controle: 
-    Despesas: 
-      Agregadas por categoria (alimentação, transporte, saúde, etc.). 
-      Não considerar despesas no cartão de crédito como despesa direta. 
-    Receitas: 
-      Tipos: Salário CLT, Aposentadoria, Extras PJ. 
-      Agregadas por mês. 
-    Cartão de Crédito: 
-      Registro do valor mensal da fatura. 
-      Não interfere no cálculo de despesas diretas. 
-    Reserva de Emergência: 
-      Depósitos mensais automáticos de R$ 300,00. 
-      Registro de juros. 
-    Sugestão de aplicação financeira adequada. 
-    
-Módulos de Informação: 
-  Acompanhamento mensal consolidado. 
-  Extrato por faixa de datas. 
-  Assessor financeiro com dicas de investimento. 
-  
-Funcionalidades Secundárias 
-  Interface responsiva e acessível. 
-  Identidade visual baseada no padrão da Prefeitura de Niterói. 
-  Sem necessidade de login (uso pessoal). 
+Exportação 
+Exportar em Word (.docx). 
+Exportar em PDF. 
 
-5. Requisitos Funcionais 
-Processamento de linguagem natural para entrada de dados. 
-Categorização automática de despesas e receitas. 
-Registro diferenciado para cartão de crédito. 
-Cálculo automático de depósitos e juros da reserva. 
-Geração de relatórios mensais e anuais. 
-Módulo de assessor financeiro com sugestões de investimento. 
+Interface 
+Design system ShadCN. 
+Cores: laranja (#FFA500), azul claro (#ADD8E6), branco (#FFFFFF). 
+Navegação simples. 
+Sem login. 
 
-5. Requisitos Não Funcionais 
-Usabilidade: Interface simples, intuitiva e acessível. 
-Design Universal: Inclusão de cores contrastantes, fontes legíveis e navegação clara. 
-Performance: Resposta rápida ao inserir dados em linguagem natural. 
-Segurança: Dados armazenados localmente ou em nuvem privada, sem login obrigatório. 
+Fora do Escopo 
+Multiusuário. 
+Autenticação/login. 
+Integração com plataformas externas. 
+Métricas de Sucesso 
+Currículos compatíveis com ATS. 
 
-6. Identidade Visual (corrigida) 
-Base: Padrão da Prefeitura de Niterói. 
-Cores: Laranja predominante, acompanhado de azul, verde e branco como cores secundárias. 
-Fonte: Tipografia institucional usada pela prefeitura. 
-Diretrizes de Design Universal: 
-  Contraste adequado entre texto e fundo. 
-  Tamanhos de fonte legíveis. 
-  Ícones e elementos visuais intuitivos. 
+Facilidade de uso. 
+Exportação funcional em Word e PDF. 
 
-7. Métricas de Sucesso 
-Registro consistente de despesas e receitas pelo usuário. 
-Depósitos mensais automáticos na reserva de emergência. 
-Relatórios mensais gerados sem erros. 
-Sugestões de investimento relevantes e acionáveis. 
+Interface consistente com design system. 
 
-8. Futuras Expansões (fora do MVP) 
-Integração com bancos e cartões para importação automática de dados. 
-Notificações inteligentes (alerta de gastos excessivos, lembrete de depósito). 
-Exportação de relatórios em PDF/Excel. 
-Módulo de metas financeiras personalizadas. 
-
+Considerações Finais 
+Aplicativo pessoal no Lovable para otimização de currículos e matchmaking de vagas, usado como desafio de conclusão de curso na DIO. 
+ 
 - Prints ou pequenos vídeos das interações com a IA;
 
 <img width="819" height="782" alt="Tela 1" src="https://github.com/user-attachments/assets/04b324f1-5d04-4890-8e5b-baf99f7a5315" />
